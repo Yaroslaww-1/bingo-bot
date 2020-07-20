@@ -1,0 +1,30 @@
+{
+  "name": "bingo-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yaroslaww-1/bingo-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yaroslaww-1/bingo-bot/issues"
+  },
+  "homepage": "https://github.com/Yaroslaww-1/bingo-bot#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^3.7.0",
+    "@typescript-eslint/parser": "^3.7.0",
+    "eslint": "^7.5.0",
+    "eslint-loader": "^4.0.2",
+    "ts-loader": "^8.0.1",
+    "typescript": "^3.9.7"
+  },
+  "dependencies": {
+    "telegraf": "^3.38.0"
+  }
+}
