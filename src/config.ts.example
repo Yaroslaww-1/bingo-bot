@@ -1,2 +1,2 @@
 # Bot token (acquired from BotFather)
-BOT_TOKEN
+BOT_TOKEN = 'SomeSecretString'
